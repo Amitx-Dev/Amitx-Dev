@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img align="right" height="329" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"  />
+<img align="right" height="250" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"  />
 
 ###
 
